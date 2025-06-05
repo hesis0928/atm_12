@@ -10,5 +10,3 @@ while True: # 조건이 True면 계속 작동합니다.
     if num == '4':
         print('종료')
         break
-
-    
